@@ -1,0 +1,8 @@
+README.md
+hello.py
+pyproject.toml
+tbot.egg-info/PKG-INFO
+tbot.egg-info/SOURCES.txt
+tbot.egg-info/dependency_links.txt
+tbot.egg-info/requires.txt
+tbot.egg-info/top_level.txt
